@@ -57,8 +57,7 @@ n = int(input('请输入n：'))
 Fibnonacci(n)
 ```
 
-    请输入n：4
-    [1, 1, 2, 3]
+   
     
 
 
@@ -76,9 +75,7 @@ for i in range(n):
 print(nums)
 ```
 
-    请输入n：5
-    [1, 1, 2, 3, 5]
-    
+   
 
 
 ```python
@@ -97,8 +94,7 @@ while i<n:
 print(nums)
 ```
 
-    请输入n：6
-    [1, 1, 2, 3, 5, 8]
+    
     
 
 
